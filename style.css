@@ -1,0 +1,10 @@
+body {
+  background-color: #202028;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 200%;
+  text-align: center;
+}
+#canvas {
+  border: 5px solid #ffffff;
+}
